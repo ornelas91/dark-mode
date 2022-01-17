@@ -9,3 +9,6 @@ Projeto referente ao curso "Manipulando o DOM" que ministrei pela [Digital Innov
 3. Crie um arquivo chamado `scripts.js` na sua pasta `assets/js`
 4. Selecione os elementos: `h1`, `button`, `footer` e `body`
 5. Se os elementos possuirem a classe `dark-mode`, modifique seus estilos. Caso contrário, volte os estilos para o original
+
+
+https://ornelas91.github.io/dark-mode/
